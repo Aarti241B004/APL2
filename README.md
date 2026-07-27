@@ -1,2 +1,4 @@
 # APL2
-This repo contains ......
+
+This file contains lab exercises
+
